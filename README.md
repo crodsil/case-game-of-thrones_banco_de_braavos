@@ -9,19 +9,19 @@
 Este é um projeto fictício que consiste na criação de um relatório em dashboard sobre dados demograficos e financeiros dos clientes
 do Banco de Ferro da Cidade de Braavos. Os Dados foram criados por mim para fins de estudo e apresentação.
 
-## Problema 1
+### Problema 1
 
 ![Imagem](img/Slide3.JPG)
 
-## Problema 2
+### Problema 2
 
 ![Imagem](img/outros_problemas.jpg)
 
-## CONTEXTO
+### CONTEXTO
 
 ![Imagem](img/Slide2.JPG)
 
-## SOLUÇÃO
+### SOLUÇÃO
 
 ![Imagem](img/solucao1.png)
 
